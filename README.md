@@ -1,2 +1,2 @@
 # CS50
-Project from CS50 course
+Projects from CS50 course
