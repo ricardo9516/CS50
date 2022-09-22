@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Run times are higher than merge sort but are shorter when the list of numbers are sorted.
+
+sort2 uses: Merge sort
+
+How do you know?: All run times are short including large amound of data.
+
+sort3 uses: Selection sort
+
+How do you know?: Run times are similar than bubble sort but when sorting data which is already sorted it takes more time than bubble sort.
